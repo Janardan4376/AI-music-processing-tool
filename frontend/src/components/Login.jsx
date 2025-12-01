@@ -52,7 +52,7 @@ const Login = () => {
             <div style={{ width: '48px', height: '48px', borderRadius: '12px', background: 'linear-gradient(135deg, #8b5cf6, #ec4899)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '1.5rem', boxShadow: '0 10px 20px rgba(139, 92, 246, 0.3)' }}>
               <Music2 color="white" size={24} />
             </div>
-            <h1 style={{ marginBottom: '0.5rem' }}>ByteCipher Studio</h1>
+            <h1 style={{ marginBottom: '0.5rem' }}>AI Music Studio</h1>
             <p style={{ fontSize: '1.1rem' }}>AI-powered vocal separation.</p>
           </motion.div>
 
