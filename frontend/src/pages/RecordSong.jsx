@@ -52,7 +52,7 @@ const RecordSong = () => {
   return (
     <div className="max-w-4xl mx-auto">
       <div className="text-center mb-10">
-        <h1 className="text-3xl font-bold text-white mb-2">AI Music Studio</h1>
+        <h1 className="text-3xl font-bold text-white mb-2">Studio Session</h1>
         <p className="text-slate-400">Select a track to start recording</p>
       </div>
 
